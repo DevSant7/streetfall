@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:03045e&height=200&section=header&text=John%20Doe&fontSize=80&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:03045e&height=200&section=header&text=SeeG%20Dev&fontSize=80&fontColor=ffffff&animation=fadeIn" width="100%"/>
   
   # 🎨 Designer Gráfico | 💻 Desenvolvedor Full Stack
   
